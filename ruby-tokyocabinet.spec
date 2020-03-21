@@ -2,7 +2,7 @@ Summary:	Ruby binding for Tokyo Cabinet
 Summary(pl.UTF-8):	Wiązania języka Ruby do biblioteki Tokyo Cabinet
 Name:		ruby-tokyocabinet
 Version:	1.31
-Release:	3
+Release:	4
 License:	LGPL v2.1+
 Source0:	http://fallabs.com/tokyocabinet/rubypkg/tokyocabinet-ruby-%{version}.tar.gz
 # Source0-md5:	8e71f49c5ae2cb8c46f5c2e5f43c182c
